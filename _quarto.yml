@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "website-quarto-pub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Projects
+      - href: about.qmd
+        text: Blogs
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+execute: 
+  freeze: auto
+

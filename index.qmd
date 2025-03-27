@@ -1,0 +1,33 @@
+---
+title: "John Doe"
+about:
+  template: jolla
+  image: drjung-small.PNG
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/jaejungca/
+    - icon: twitter
+      text: twitter
+      href: https://x.com/JaeMinJung1
+    - text: DWV 101
+      icon: award
+      href: https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml
+    - text: MS in Digital Marketing
+      icon: bank
+      href: https://www.cpp.edu/cba/graduate-business-programs/programs/master-degree-in-digital-marketing-and-marketing-analytics.shtml
+---
+
+John Doe is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. {{< lipsum 1 >}}
+
+## Education
+
+Cal Poly Pomona, Pomona, CA
+Master of Science in Digital Marketing, 2025
+
+Macalester College | St. Paul, MN
+B.A. in Economics 2020
+
+## Experience
+
+Marketing Data Analyst, Center for Customer Insights and Digital Marketing, 2023 - 2025
